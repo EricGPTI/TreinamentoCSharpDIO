@@ -1,0 +1,16 @@
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\obj\Debug\net5.0\RevisaoFundamentos.csprojAssemblyReference.cache
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\obj\Debug\net5.0\RevisaoFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\obj\Debug\net5.0\RevisaoFundamentos.AssemblyInfoInputs.cache
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\obj\Debug\net5.0\RevisaoFundamentos.AssemblyInfo.cs
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\obj\Debug\net5.0\RevisaoFundamentos.csproj.CoreCompileInputs.cache
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\bin\Debug\net5.0\RevisaoFundamentos.exe
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\bin\Debug\net5.0\RevisaoFundamentos.deps.json
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\bin\Debug\net5.0\RevisaoFundamentos.runtimeconfig.json
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\bin\Debug\net5.0\RevisaoFundamentos.runtimeconfig.dev.json
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\bin\Debug\net5.0\RevisaoFundamentos.dll
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\bin\Debug\net5.0\ref\RevisaoFundamentos.dll
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\bin\Debug\net5.0\RevisaoFundamentos.pdb
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\obj\Debug\net5.0\RevisaoFundamentos.dll
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\obj\Debug\net5.0\ref\RevisaoFundamentos.dll
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\obj\Debug\net5.0\RevisaoFundamentos.pdb
+d:\Projetos Dev\TreinamentoCSharpDIO\RevisaoFundamentos\obj\Debug\net5.0\RevisaoFundamentos.genruntimeconfig.cache

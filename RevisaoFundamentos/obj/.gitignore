@@ -1,0 +1,3 @@
+# Arquivos e diretóriso a serem ignorados.
+#IDE
+*.vscode,
